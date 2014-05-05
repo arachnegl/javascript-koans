@@ -1,3 +1,6 @@
+# Forked for personal use
+This repo contains my answers to this set of koans.
+
 # Javascript Koans - koans to learn Javascript (the good bits) #
 
 Based on Edgecase's fantastic 
